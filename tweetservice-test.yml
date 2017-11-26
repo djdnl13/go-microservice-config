@@ -1,0 +1,3 @@
+server_port: 6768
+server_name: Tweetservice TEST
+zipkin.service.url: http://zipkin:9411
